@@ -1,0 +1,7 @@
+body { background: #f6f7fb; }
+.logo { width: 34px; height: 34px; }
+.card-shadow { box-shadow: 0 8px 24px rgba(0,0,0,.06); }
+.hero { background: linear-gradient(135deg, #ffffff, #edf2ff); border-radius: 20px; }
+.site-footer { background: #111827; color: #e5e7eb; margin-top: 40px; }
+.product-img { height: 180px; object-fit: cover; }
+.sidebar-card { position: sticky; top: 90px; }
